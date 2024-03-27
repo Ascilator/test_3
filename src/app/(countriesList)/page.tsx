@@ -1,7 +1,7 @@
 import { CountriesList } from "@/components/CountriesList";
 import { Country, ListNames, ListType } from "@/types";
 
-export const getCountries = async (): Promise<{
+const getCountries = async (): Promise<{
   countries: ListType[];
   currencies: ListType[];
 }> => {
