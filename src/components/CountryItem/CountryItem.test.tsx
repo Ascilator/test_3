@@ -1,3 +1,4 @@
+import React from "react";
 import { ListNames } from "@/types";
 import { CountryItem } from "./CounteryItem";
 import { render } from "@testing-library/react";

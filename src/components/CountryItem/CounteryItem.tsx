@@ -1,6 +1,5 @@
 "use client";
-
-import { memo } from "react";
+import React, { memo } from "react";
 import cx from "classnames";
 
 import { ButtonStatus, ListNames } from "@/types";
