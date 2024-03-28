@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button test Button is rendering 1`] = `
+<div>
+  <button
+    class="px-5 py-3 border border-cyan-500 bg-cyan-500 rounded-xl text-white undefined"
+  >
+    text
+  </button>
+</div>
+`;

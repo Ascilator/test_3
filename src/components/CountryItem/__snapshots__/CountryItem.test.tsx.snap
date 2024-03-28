@@ -1,0 +1,30 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CountryItem test CountryItem is rendering 1`] = `
+<div>
+  <div
+    class="flex justify-between items-start py-3"
+  >
+    <button
+      class="px-5 py-3 border border-cyan-500 bg-cyan-500 rounded-xl text-white "
+    >
+      off
+    </button>
+    <div
+      class="ml-5 mr-auto mt-3"
+    >
+      USD
+    </div>
+    <ul
+      class="flex flex-col gap-3 text-right mt-3"
+    >
+      <div>
+        USA
+      </div>
+      <div>
+        Canada
+      </div>
+    </ul>
+  </div>
+</div>
+`;
